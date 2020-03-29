@@ -1,0 +1,31 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "description": "Repositório do curso de NodeJS da HCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everton-oliveira/curso-nodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Everton Oliveira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/everton-oliveira/curso-nodeJS/issues"
+  },
+  "homepage": "https://github.com/everton-oliveira/curso-nodeJS#readme"
+}
